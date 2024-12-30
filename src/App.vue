@@ -1,4 +1,5 @@
 <template>
+  <p>test</p>
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
 
@@ -20,4 +21,4 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
 }
-</style>  
+</style>
